@@ -8,3 +8,6 @@ O que vou aprender na Trybe:
 -CSS
 
 isso feito hoje 01.04.2022
+adicionado dados para o merge
+
+-Saber focar
