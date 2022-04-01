@@ -1,1 +1,10 @@
 Meu primeiro repositorio Git Thanos.
+O que vou aprender na Trybe:
+
+-Unix
+-Bash
+-Git
+-HTML
+-CSS
+
+isso feito hoje 01.04.2022
